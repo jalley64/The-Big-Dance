@@ -62,7 +62,7 @@ TBD
 #### Nomination ####
 - In order to nominate a rule change, simply propose it through the appropriate channel. If it gets endorsed (by adding an emoji showing your affirmation) by 2 more league members it will be on the docket for the end of the year summit.
 #### Passing A Rule ####
-- At the season end summit, we will vote on any nominated proposals. The commissioner's vote counts as 1.5 votes (essentially a tiebreaker). Majority is needed for a vote to pass. If a vote passes with less than 75% majority, then the rule will take a year to go into affect, this way, if there is a rule put in place that you absolutely do not want, you can leave the league gracefully before the rule comes into effect.
+- At the season end summit, we will vote on any nominated proposals. 8/12 vote are needed to pass a rule change with a year delay. 10/12 votes are needed to pass a rule change immediately with no delay.
 <br>
 
 ### League Summit ### 
@@ -221,9 +221,7 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 
 ## __Section XI - Leaving the League__ ##
 ### Leaving the League ###
-- In the event that you wish to leave the league, you must let us know a year in advance, no later than the time that the following year's payment is due (a month before the rookie draft). Here is an example. You join the first year and pay the 2019 and 2020 dues. You decide you want to leave the league. You must notify the commissioner that 2020 will be your last year by late March 2020 (when the 2021 payment is due). 
-- During that final year, you will not be permitted to trade any future draft picks, whether receiving or sending.
-- If you are not willing to play the final season, you forfeit the money that you have paid.
+- We require managers always be paid out a year in advance, if you wish to leave the league you forfeit that future payment in order to help fill your spot.
 - In drastic circumstances the commissioner may consider refunding the buy-in however these instances will be very rare and far from the expectation.
 
 ### Missing Teams ###
